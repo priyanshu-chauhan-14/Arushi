@@ -65,10 +65,12 @@ body {
 
 #box #photo {
     background: url("arushi2.jpg");
+    background-size: cover;
 }
 
 #box #photo1 {
     background-image: url("arushi2.jpg");
+    background-size: cover;
 }
 
 /* Slide-in content box */
