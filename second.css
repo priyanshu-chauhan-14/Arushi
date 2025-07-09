@@ -158,8 +158,9 @@ body {
 
     #box #photo,
     #box #photo1 {
-        width: 60% !important;
-        height: 140px !important;
+        
+        width: 70% !important;
+        height: 110px !important;
         background-size: contain !important;
     }
 
